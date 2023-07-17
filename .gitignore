@@ -1,0 +1,5 @@
+.terraform
+cert
+policy
+terraform.tfstate.d
+.terraform.lock.hcl
